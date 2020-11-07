@@ -4,11 +4,10 @@ body {
 } 
 
 header{
-
-
+    background-color: royalblue; 
+    text-align: center;
 } 
 
 header h1{
-
-    
+    color: white;   
 }
