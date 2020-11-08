@@ -1,13 +1,17 @@
 body {
     margin: 0%;
-    background-color: red;
+    background-color: #A62424;
 } 
 
 header{
-    background-color: royalblue; 
+    background-color: #038C65; 
     text-align: center;
 } 
 
 header h1{
     color: white;   
+} 
+
+header image{
+    border-radius: 150px;
 }
