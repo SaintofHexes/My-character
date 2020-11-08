@@ -1,7 +1,9 @@
 body {
     margin: 0%;
     background-color: #A62424;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 17px; 
+    line-height: 21px;
 } 
 
 header{
@@ -24,5 +26,49 @@ header img{
 } 
 
 h1, h2{
-    font-family: 'Noto Serif', serif;
+    font-family: 'Noto Serif', serif; 
+    font-size: 40px;
+} 
+
+main{
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 0px 20px;
+} 
+
+main img{
+    max-width: 100%;
+} 
+
+h2{
+    font-size: 30px;
+    color: #01261C;
+} 
+
+p{
+    font-size: 17px;
+}
+
+a{
+    color: #01261C;
+} 
+
+a:hover{
+    background-color: #014029;
+    color: #038C65;
+} 
+
+footer{
+    background-color: #038C65; 
+    text-align: center;     
+    padding: 30px;
+}
+
+footer p{
+    margin: 0;
+} 
+
+.caption{
+    color: white;
+    margin: 0;
 }
