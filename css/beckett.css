@@ -14,7 +14,8 @@ header h1{
 
 header img{
     border-radius: 150px;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
+    border: 20px solid #01261C;
 }
