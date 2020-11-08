@@ -12,6 +12,9 @@ header h1{
     color: white;   
 } 
 
-header image{
+header img{
     border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
 }
